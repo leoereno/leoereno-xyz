@@ -27,6 +27,14 @@ main {
   border-right: none;
 }
 
+#shows {
+  border: 3px dotted purple;
+  padding: 1em;
+  border-left: none;
+  border-right: none;
+  font-size: large;
+}
+
 a:hover {
   background-color: yellow;
 }
