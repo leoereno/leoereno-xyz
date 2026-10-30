@@ -51,3 +51,7 @@ section {
 h1:hover {
   color: purple;
 }
+
+#voltar {
+  font-size: large;
+}
