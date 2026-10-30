@@ -1,0 +1,29 @@
+body {
+  /* background: #f0f0ff; */
+  background: #C3C3C3;
+  font-size:  medium;
+}
+#titulo {
+  border-style: dotted;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  padding-bottom: 0.5em;
+}
+
+a:hover {
+  background-color: yellow;
+}
+
+a:visited {
+  text-decoration: none;
+  color: blue;
+}
+
+section {
+  margin-bottom: 2em;
+}
+
+h1:hover {
+  color: purple;
+}
