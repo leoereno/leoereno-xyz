@@ -3,12 +3,28 @@ body {
   background: #C3C3C3;
   font-size:  medium;
 }
+
+nav {
+  margin-bottom: 2em;
+}
+
+main {
+  text-align: center;
+}
 #titulo {
   border-style: dotted;
   border-top: none;
   border-left: none;
   border-right: none;
   padding-bottom: 0.5em;
+}
+
+#links {
+  border: 2px dotted black;  
+  padding-bottom: 0.5em;
+  border-top: none;
+  border-left: none;
+  border-right: none;
 }
 
 a:hover {
