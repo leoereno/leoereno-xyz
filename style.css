@@ -1,7 +1,8 @@
 body {
-  /* background: #f0f0ff; */
-  background: #C3C3C3;
+  /* background: #C3C3C3; */
+  background: #c5c5c5;
   font-size:  medium;
+  letter-spacing: -0.5px;
 }
 
 nav {
