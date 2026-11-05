@@ -5,8 +5,17 @@ body {
   letter-spacing: -0.5px;
 }
 
+#logo {
+  border-style: dotted;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  margin-bottom: 2em;
+}
+
 nav {
   margin-bottom: 2em;
+  font-size: large;
 }
 
 main {
